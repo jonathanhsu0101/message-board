@@ -12,10 +12,6 @@ const schema = Joi.object().keys({
   imageURL: Joi.string().uri({
     scheme: [/https?/],
   }),
-  // username
-  // subject
-  // message
-  // imageURL
 });
 
 const messages = db.get('messages');
