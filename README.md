@@ -1,8 +1,10 @@
 # Message Board
 
-# See what it looks like:
-
 https://newby.now.sh/
+
+# Screenshot
+
+https://github.com/jonathanhsu0101/message-board/blob/master/message%20board%20screenshot.PNG
 
 # What is it:
 
