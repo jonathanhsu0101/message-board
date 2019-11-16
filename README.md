@@ -1,6 +1,16 @@
-# Full Stack Message Board
+# Message Board
+
+# See what it looks like:
 
 https://newby.now.sh/
+
+# What is it:
+
+It is a message board. You can leave a message with picture to share with other people.
+
+The App is deployed on Heroku.
+
+It is based on Vue, with both front end interface and back end database. Front end uses Bootstrap framework and Bootswatch themes. Back end uses MongoDB Atlas.
 
 * [x] Create Server Folder
   * [x] Init npm
