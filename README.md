@@ -1,8 +1,8 @@
-# Try here to see a Screenshot
+# Try here to see a Screenshot of how it looks like:
 
 https://github.com/jonathanhsu0101/message-board/blob/master/message%20board%20screenshot.PNG
 
-# Link to the Message Board app
+# Try here to use the deployed app (website)
 
 https://newby.now.sh/
 
