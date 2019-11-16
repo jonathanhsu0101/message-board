@@ -1,1 +1,0 @@
-Deploying into Heroku begin from 2:00:00
