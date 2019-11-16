@@ -12,6 +12,8 @@ The App is deployed on Heroku.
 
 It is based on Vue, with both front end interface and back end database. Front end uses Bootstrap framework and Bootswatch themes. Back end uses MongoDB Atlas.
 
+# Index
+
 * [x] Create Server Folder
   * [x] Init npm
   * [x] Add express morgan cors body-parser
