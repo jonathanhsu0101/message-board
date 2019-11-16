@@ -1,10 +1,10 @@
-# Message Board
-
-https://newby.now.sh/
-
-# Screenshot
+# Try here to see a Screenshot
 
 https://github.com/jonathanhsu0101/message-board/blob/master/message%20board%20screenshot.PNG
+
+# Link to the Message Board app
+
+https://newby.now.sh/
 
 # What is it:
 
